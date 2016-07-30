@@ -1,5 +1,7 @@
 # docker-gunicorn
 
+[![Travis CI](https://api.travis-ci.org/codexfons/docker-gunicorn.svg)](https://travis-ci.org/codexfons/docker-gunicorn)
+
 Alpine-based minimal Python3 + Gunicorn setup.
 
 ## Usage
