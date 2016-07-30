@@ -1,0 +1,2 @@
+# Dummy file, so the Dockerfile can contain a step about installing app
+# dependencies.
